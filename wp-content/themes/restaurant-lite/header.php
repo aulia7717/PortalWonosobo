@@ -78,17 +78,17 @@ $content = apply_filters('the_content', substr(strip_tags($post->post_content), 
                     <div id="slidecaption2" class="nivo-html-caption">
                     <div class="slide_info">
                             <h2><?php echo 'Telaga Warna Wonosobo'; ?></h2>
-                            <p><?php echo 'Phasellus viverra aliquet magna quis interduming. Sed quis fringilla massa. In ut porttitor felis necing iaculis mision';?></p>
+                            <p><?php echo 'Telaga Warna merupakan salah satu tempat wisata andalan yang terletak di Dieng Wonosobo, jawa tengah. Telaga ini kadang berwarna hijau, kuning dan pelangi.';?></p>
                             <div class="clear"></div>
-                            <a class="ReadMore" href="#link2"><?php echo 'Read More'; ?></a>
+                            <a class="ReadMore" href="#http://localhost/wonosobo/2019/02/15/telaga-warna/"><?php echo 'Read More'; ?></a>
                       </div>
                     </div>
                     <div id="slidecaption3" class="nivo-html-caption">
                       <div class="slide_info">
                             <h2><?php echo 'Candi Arjuna Dieng Wonosobo';?></h2>
-                            <p><?php echo 'Phasellus viverra aliquet magna quis interduming. Sed quis fringilla massa. In ut porttitor felis necing iaculis mision'; ?> </p>
+                            <p><?php echo 'Candi Arjuna merupakan salah satu candi di kompleks Sejarah Candi Dieng yang terletak di dataran tinggi dieng, perbatasan antara Kabupaten Wonosobo dan Banjarnegara.'; ?> </p>
                             <div class="clear"></div>
-                            <a class="ReadMore" href="#link3"><?php echo 'Read More'; ?></a>
+                            <a class="ReadMore" href="http://localhost/wonosobo/2019/02/20/candi-arjuna-dieng/"><?php echo 'Read More'; ?></a>
                     </div>
                    </div>
 </div>
