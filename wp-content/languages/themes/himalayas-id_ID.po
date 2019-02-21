@@ -1,0 +1,1564 @@
+# Translation of Themes - Himalayas in Indonesian
+# This file is distributed under the same license as the Themes - Himalayas package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-05-15 13:33:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: id\n"
+"Project-Id-Version: Themes - Himalayas\n"
+
+#. Theme Name of the theme
+#: inc/demo-config.php:22 inc/admin/class-himalayas-admin.php:390
+msgid "Himalayas"
+msgstr "Himalayas"
+
+#. Description of the theme
+msgid "Himalayas is modern style free one page parallax responsive WordPress theme. Inform your visitors all they need to know right from your home page without requiring to go to the other pages. Himalayas can be used for business, portfolio, corporate, agency, photography, freelancers and almost any kind of sites. Get free support at https://themegrill.com/support-forum/ and check the demo at https://demo.themegrill.com/himalayas/"
+msgstr "Himalayas adalah tema WordPress responsif parallax dengan gaya modern gratis one page. Infromasikan pengunjung Anda semua yang mereka perlu ketahui dari laman beranda tanpa perlu pergi laman lain. Himalayas bisa digunakan untuk bisnis, portofolio, perusahaan, agensi, fotografi, freelanc dan hampir semua jenis situs lain. Dapatkan bantuan gratis di http://themegrill.com/support-forum/ dan cek demo nya di http://demo.themegrill.com/himalayas/"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Memasang Plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Semua pemasangan telah selesai."
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s berhasil dipasang."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Proses pemasangan dimulai. Proses ini mungkin memakan waktu pada beberapa hosting, harap bersabar."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Memasang dan Mengaktifkan Plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Semua pemasangan dan pengaktifan telah selesai."
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Sembunyikan Rincian"
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Tampilkan Rincian"
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s terpasang dan berhasil diaktifkan."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Proses pemasangan dimulai. Proses ini mungkin memakan waktu pada beberapa hosting, harap bersabar."
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Pemasangan %1$s gagal."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Terjadi kesalahan saat memasang %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Memperbarui Plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Pengaktifan plugin gagal."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Tidak ada plugin tersedia untuk diaktifkan saat ini."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Tidak ada plugin dipilih untuk diaktifkan. Tidak ada tindakan yang diambil."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Tidak ada plugin yang tersedia untuk diperbarui saat ini."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Tidak ada plugin yang tersedia untuk dipasang saat ini."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Tidak ada plugin dipilih untuk diperbarui. Tidak ada tindakan yang diambil."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Tidak ada plugin yang dipilih untuk dipasang. Tidak ada tindakan yang diambil."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Aktifkan"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Perbarui"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Pasang"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Pesan pembaruan dari pembuat plugin."
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Aktifkan %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Perbarui %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Pasang %2$s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Status"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Versi"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Jenis"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Sumber"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Tidak ada plugin untuk dipasang, diperbarui atau diaktifkan."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Versi tersedia:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Syarat minimum versi:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Versi terpasang:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "tidak diketahui"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Untuk Aktifkan <span class=\"count\">(%s)</span>"
+msgstr[1] "Untuk Aktifkan <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Tersedia Pembaruan <span class=\"count\">(%s)</span>"
+msgstr[1] "Tersedia Pembaruan <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Untuk Memasang To Install <span class=\"count\">(%s)</span>"
+msgstr[1] "Untuk Memasang To Install <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Semua <span class=\"count\">(%s)</span>"
+msgstr[1] "Semua <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Pembaruan yang disarankan"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Memerlukan pembaruan"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Pembaruan yang Diperlukan tidak tersedia"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Aktif"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Terpasang Tapi Tidak Diaktifkan"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Tidak Terpasang"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Pra-Kemas"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Sumber Eksternal"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Repositori WordPress"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Disarankan"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Diperlukan"
+
+#. translators: %s: version number
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1121
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "dan"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Paket remot plugin mengandung lebih dari satu file, tapi file tersebut tidak dikemas kedalam folder."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Silahkan hubungi pembuat plugin dan minta mereka untuk mengemas pluginnya sesuai panduan WordPress."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Paket remot plugin tidak mengandung folder dengan slug yang diinginkan dan tidak dapat diganti nama."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Pembaruan Diperlukan"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Plugin perlu diperbarui supaya cocok dengan tema Anda."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+#: inc/tgm-plugin-activation/tgmpa-himalayas.php:124
+msgid "Please contact the administrator of this site for help."
+msgstr "Silahkan hubungi administrasi situs ini untuk bantuan."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:396
+#: inc/tgm-plugin-activation/tgmpa-himalayas.php:123
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Terdapat satu atau lebih plugin yang diperlukan atau disarankan untuk dipasang, diperbarui atau diaktifkan."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:395
+#: inc/tgm-plugin-activation/tgmpa-himalayas.php:122
+msgid "Dismiss this notice"
+msgstr "Abaikan pesan ini"
+
+#. translators: 1: dashboard link.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:394
+#: inc/tgm-plugin-activation/tgmpa-himalayas.php:121
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Semua plugin berhasil terpasang dan diaktifkan. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:392
+#: inc/tgm-plugin-activation/tgmpa-himalayas.php:119
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin tidak diaktifkan. Versi tinggi dari %s diperlukan untuk tema ini. Silahkan perbarui plugin."
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:390
+#: inc/tgm-plugin-activation/tgmpa-himalayas.php:117
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Tidak perlu tindakan diambil. Plugin %1$s sudah berhasil aktif."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:388
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2952
+#: inc/tgm-plugin-activation/tgmpa-himalayas.php:115
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Plugin berikut ini berhasil diaktifkan:"
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:387
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3159
+#: inc/tgm-plugin-activation/tgmpa-himalayas.php:114
+msgid "Plugin activated successfully."
+msgstr "Plugin berhasil diaktifkan."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:386
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:827
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2533
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Kembali ke Dasbor"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:385
+#: inc/tgm-plugin-activation/tgmpa-himalayas.php:113
+msgid "Return to Required Plugins Installer"
+msgstr "Kembali ke Pemasang Plugin yang Diperlukan"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:380
+#: inc/tgm-plugin-activation/tgmpa-himalayas.php:108
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Mulai mengaktifkan plugin"
+msgstr[1] "Mulai mengaktifkan plugin"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:375
+#: inc/tgm-plugin-activation/tgmpa-himalayas.php:103
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Mulai perbarui plugin"
+msgstr[1] "Mulai perbarui plugin"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:370
+#: inc/tgm-plugin-activation/tgmpa-himalayas.php:98
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Mulai pasang plugin"
+msgstr[1] "Mulai pasang plugin"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:333
+#: inc/tgm-plugin-activation/tgmpa-himalayas.php:61
+msgid "Something went wrong with the plugin API."
+msgstr "Terjadi kesalahan dengan API plugin."
+
+#. translators: %s: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:332
+#: inc/tgm-plugin-activation/tgmpa-himalayas.php:60
+msgid "Updating Plugin: %s"
+msgstr "Memperbarui Plugin: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:330
+#: inc/tgm-plugin-activation/tgmpa-himalayas.php:58
+msgid "Installing Plugin: %s"
+msgstr "Memasang Plugin: %s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:328
+#: inc/tgm-plugin-activation/tgmpa-himalayas.php:56
+msgid "Install Plugins"
+msgstr "Pasang Plugin"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:327
+#: inc/tgm-plugin-activation/tgmpa-himalayas.php:55
+msgid "Install Required Plugins"
+msgstr "Pasang Plugin yang Diperlukan"
+
+#: inc/widgets/class-himalayas-call-to-action-widget.php:92
+msgid "Check to display link in new tab."
+msgstr "Centang untuk menampilkan link di tab baru."
+
+#: inc/widgets/widgets.php:63
+msgid "Shows widgets on footer sidebar one."
+msgstr "Menampilkan widget di sidebar footer satu."
+
+#: inc/widgets/widgets.php:73
+msgid "Shows widgets on footer sidebar two."
+msgstr "Menampilkan widget di sidebar footer dua."
+
+#: inc/widgets/widgets.php:83
+msgid "Shows widgets on footer sidebar three."
+msgstr "Menampilkan widget di sidebar footer tiga."
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:75
+#: inc/widgets/class-himalayas-call-to-action-widget.php:61
+#: inc/widgets/class-himalayas-our-team-widget.php:68
+msgid "Choose an image"
+msgstr "Tentukan gambar"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:76
+#: inc/widgets/class-himalayas-call-to-action-widget.php:62
+#: inc/widgets/class-himalayas-our-team-widget.php:69
+msgid "Use image"
+msgstr "Gunakan gambar"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:77
+#: inc/widgets/class-himalayas-call-to-action-widget.php:63
+#: inc/widgets/class-himalayas-our-team-widget.php:70
+msgid "Select an Image"
+msgstr "Pilih gambar"
+
+#: inc/admin/class-himalayas-admin.php:36
+#: inc/admin/class-himalayas-admin.php:119
+msgid "About"
+msgstr "Tentang"
+
+#: inc/admin/class-himalayas-admin.php:77
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Gagal. Silahkan muat ulang laman dan coba lagi."
+
+#: inc/admin/class-himalayas-admin.php:81
+msgid "Cheatin&#8217; huh?"
+msgstr "Aneh huh?"
+
+#: inc/admin/class-himalayas-admin.php:95
+msgid "Dismiss"
+msgstr "Abaikan"
+
+#: inc/admin/class-himalayas-admin.php:96
+msgid "Welcome! Thank you for choosing Himalayas! To fully take advantage of the best our theme can offer please make sure you visit our %swelcome page%s."
+msgstr "Selamat Datang! Terimakasih telah memilih Himalayas! Untuk mendaatkan semua manfaat yang bisa diberikan tema ini pastikan Anda mengunjungi %swelcome page%s kami."
+
+#: inc/admin/class-himalayas-admin.php:98
+msgid "Get started with Himalayas"
+msgstr "Mulai Himalayas"
+
+#: inc/admin/class-himalayas-admin.php:155
+msgid "Supported Plugins"
+msgstr "Plugin Dukungan"
+
+#: inc/admin/class-himalayas-admin.php:163
+msgid "Free Vs Pro"
+msgstr "Gratis vs Pro"
+
+#: inc/admin/class-himalayas-admin.php:171
+msgid "Changelog"
+msgstr "Catatan Perubahan"
+
+#: inc/admin/class-himalayas-admin.php:205
+msgid "Theme Customizer"
+msgstr "Penyesuai Tema"
+
+#: inc/admin/class-himalayas-admin.php:206
+msgid "All Theme Options are available via Customize screen."
+msgstr "Semua Opsi Tema tersedia lewat layar Kustomisasi."
+
+#: inc/admin/class-himalayas-admin.php:208
+msgid "Customize"
+msgstr "Sesuaikan"
+
+#: inc/admin/class-himalayas-admin.php:214
+msgid "Please view our documentation page to setup the theme."
+msgstr "Silahkan lihat laman dokumentasi untuk mengatur tema."
+
+#: inc/admin/class-himalayas-admin.php:221
+msgid "Got theme support question?"
+msgstr "Ada pertanyaan seputar bantuan tema?"
+
+#: inc/admin/class-himalayas-admin.php:222
+msgid "Please put it in our dedicated support forum."
+msgstr "Silahkan ajukan di forum dukungan khusus."
+
+#: inc/admin/class-himalayas-admin.php:229
+msgid "Need more features?"
+msgstr "Butuh fitur lebih?"
+
+#: inc/admin/class-himalayas-admin.php:230
+#: inc/admin/class-himalayas-admin.php:384
+msgid "Upgrade to PRO version for more exciting features."
+msgstr "Tingkatkan ke versi PRO untuk fitur menarik lainnya."
+
+#: inc/admin/class-himalayas-admin.php:237
+msgid "Got sales related question?"
+msgstr "Ada pertanyaan seputar penjualan?"
+
+#: inc/admin/class-himalayas-admin.php:238
+msgid "Please send it via our sales contact page."
+msgstr "Silahkan kirim lewat laman kontak penjualan kami."
+
+#: inc/admin/class-himalayas-admin.php:240
+msgid "Contact Page"
+msgstr "Laman Kontak"
+
+#: inc/admin/class-himalayas-admin.php:247
+#: inc/admin/class-himalayas-admin.php:255
+msgid "Translate"
+msgstr "Terjemahkan"
+
+#: inc/admin/class-himalayas-admin.php:251
+msgid "Click below to translate this theme into your own language."
+msgstr "Klik dibawah untuk menerjemahkan tema in ke bahasa Anda."
+
+#: inc/admin/class-himalayas-admin.php:267
+msgid "Return to Updates"
+msgstr "Kembali ke Pembaruan"
+
+#: inc/admin/class-himalayas-admin.php:267
+msgid "Return to Dashboard &rarr; Updates"
+msgstr "Kembali ke Dasbor &rarr; Pembaruan"
+
+#: inc/admin/class-himalayas-admin.php:270
+msgid "Go to Dashboard &rarr; Home"
+msgstr "Kembali ke Dasbor &rarr; Beranda"
+
+#: inc/admin/class-himalayas-admin.php:270
+msgid "Go to Dashboard"
+msgstr "Kembali ke Dasbor"
+
+#: inc/admin/class-himalayas-admin.php:287
+msgid "View changelog below:"
+msgstr "Lihat catatan perubahan dibawah:"
+
+#: inc/admin/class-himalayas-admin.php:341
+msgid "This theme recommends following plugins:"
+msgstr "Tema ini menyarankan plugin berikut ini:"
+
+#: inc/admin/class-himalayas-admin.php:344
+msgid "Social Icons"
+msgstr "Ikon Sosial"
+
+#: inc/admin/class-himalayas-admin.php:345
+#: inc/admin/class-himalayas-admin.php:349
+msgid " by ThemeGrill"
+msgstr "oleh ThemeGrill"
+
+#: inc/admin/class-himalayas-admin.php:348
+msgid "Easy Social Sharing"
+msgstr "Easy Social Sharing"
+
+#: inc/admin/class-himalayas-admin.php:355
+msgid "WP-PageNavi"
+msgstr "WP-PageNavi"
+
+#: inc/admin/class-himalayas-admin.php:358
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/admin/class-himalayas-admin.php:359
+#: inc/admin/class-himalayas-admin.php:363
+#: inc/admin/class-himalayas-admin.php:367
+msgid "Fully Compatible in Pro Version"
+msgstr "Sangat Cocok di versi Pro"
+
+#: inc/admin/class-himalayas-admin.php:362
+msgid "Polylang"
+msgstr "Polylang"
+
+#: inc/admin/class-himalayas-admin.php:366
+msgid "WPML"
+msgstr "WPML"
+
+#: inc/admin/class-himalayas-admin.php:389
+msgid "Features"
+msgstr "Fitur"
+
+#: inc/demo-config.php:26 inc/admin/class-himalayas-admin.php:391
+msgid "Himalayas Pro"
+msgstr "Himalayas Pro"
+
+#: inc/admin/class-himalayas-admin.php:396
+msgid "Use as One Page theme"
+msgstr "Gunakan sebagai tema One Page"
+
+#: inc/admin/class-himalayas-admin.php:401
+msgid "Parallax Scrolling"
+msgstr "Gulir Parallax"
+
+#: inc/admin/class-himalayas-admin.php:407
+msgid "4 Slides"
+msgstr "4 Slide"
+
+#: inc/admin/class-himalayas-admin.php:408
+msgid "Unlimited Slides"
+msgstr "Slide Tanpa Batas"
+
+#: inc/admin/class-himalayas-admin.php:413
+msgid "Slides type, duration & delay time"
+msgstr "Jenis slide, durasi & waktu delay"
+
+#: inc/admin/class-himalayas-admin.php:416
+msgid "Header Video"
+msgstr "Video Header"
+
+#: inc/admin/class-himalayas-admin.php:421
+msgid "Slider text layout"
+msgstr "Tata letak teks slide"
+
+#: inc/admin/class-himalayas-admin.php:422
+msgid "1"
+msgstr "1"
+
+#: inc/admin/class-himalayas-admin.php:423
+msgid "2"
+msgstr "2"
+
+#: inc/admin/class-himalayas-admin.php:426
+msgid "Google Fonts"
+msgstr "Google Font"
+
+#: inc/admin/class-himalayas-admin.php:428
+msgid "500+"
+msgstr "500+"
+
+#: inc/admin/class-himalayas-admin.php:431
+msgid "Color Palette"
+msgstr "Color Palette"
+
+#: inc/admin/class-himalayas-admin.php:432
+msgid "Primary Color Option"
+msgstr "Opsi Warna Utama"
+
+#: inc/admin/class-himalayas-admin.php:433
+msgid "Primary color option & 18+"
+msgstr "Opsi warna utama & 18+"
+
+#: inc/admin/class-himalayas-admin.php:436
+msgid "Font Size options"
+msgstr "Opsi Ukuran font"
+
+#: inc/admin/class-himalayas-admin.php:441
+msgid "WooCommerce Compatible"
+msgstr "Cocok dengan WooCommerce"
+
+#: inc/admin/class-himalayas-admin.php:446
+msgid "Woocommerce Page Layout"
+msgstr "Tata Letak Laman WooCommerce"
+
+#: inc/admin/class-himalayas-admin.php:451
+msgid "WPML Compatible"
+msgstr "Cocok dengan WPML"
+
+#: inc/admin/class-himalayas-admin.php:456
+msgid "Footer Copyright Editor"
+msgstr "Penyunting Hak Cipta Footer"
+
+#: inc/admin/class-himalayas-admin.php:461
+msgid "Demo Content"
+msgstr "Konten Demo"
+
+#: inc/admin/class-himalayas-admin.php:467
+msgid "Forum"
+msgstr "Forum"
+
+#: inc/admin/class-himalayas-admin.php:468
+msgid "Emails/Priority Support Ticket"
+msgstr "Email/Prioritas Tiket Bantuan"
+
+#: inc/admin/class-himalayas-admin.php:506
+msgid "TG: Image Gallery Widget"
+msgstr "TG: Widget Galeri Gambar"
+
+#: inc/admin/class-himalayas-admin.php:511
+msgid "TG: Testimonial Widget"
+msgstr "TG: Widget Testimonial"
+
+#: inc/admin/class-himalayas-admin.php:516
+msgid "TG: Our Clients"
+msgstr "TG: Klien Kami"
+
+#: inc/admin/class-himalayas-admin.php:521
+msgid "TG: Fun Facts"
+msgstr "TG: Fakta Menyenangkan"
+
+#: inc/admin/class-himalayas-admin.php:529
+msgid "View Pro"
+msgstr "Lihat Pro"
+
+#: inc/widgets/class-himalayas-portfolio-widget.php:11
+msgid "Display some pages as Portfolio"
+msgstr "Tampilkan beberapa laman sebagai Portofolio"
+
+#: inc/widgets/class-himalayas-portfolio-widget.php:30
+msgid "Note: Enter the Portfolio Section ID and use same for Menu item."
+msgstr "Catatan: Masukkan ID Bagian Portofolio dan gunakan yang sama untuk item Menu."
+
+#: search.php:25
+msgid "Search Results:"
+msgstr "Hasil Pencarian:"
+
+#: inc/functions.php:477
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s oleh %2$s."
+
+#: inc/functions.php:477
+msgid "Powered by %s."
+msgstr "Dipersembahkan oleh %s."
+
+#: inc/admin/class-himalayas-admin.php:136
+msgid "View Demo"
+msgstr "Lihat Demo"
+
+#: inc/admin/class-himalayas-admin.php:134
+msgid "Theme Info"
+msgstr "Info Tema"
+
+#: inc/functions.php:473
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/admin/class-himalayas-admin.php:140
+msgid "Rate this theme"
+msgstr "Nilailah tema ini"
+
+#: inc/admin/class-himalayas-admin.php:138
+#: inc/admin/class-himalayas-admin.php:232 inc/customizer.php:548
+msgid "View PRO version"
+msgstr "Lihat versi PRO"
+
+#: inc/admin/class-himalayas-admin.php:224
+#: inc/admin/class-himalayas-admin.php:466
+msgid "Support"
+msgstr "Bantuan"
+
+#: inc/admin/class-himalayas-admin.php:213
+#: inc/admin/class-himalayas-admin.php:216
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+#. Template Name of the theme
+msgid "Portfolio Template"
+msgstr "Template Portofolio"
+
+#. Template Name of the theme
+msgid "Service Template"
+msgstr "Template Layanan"
+
+#. Template Name of the theme
+msgid "Our Team Template"
+msgstr "Template Tim Kami"
+
+#: sidebar-left.php:18 sidebar.php:18
+msgid "Example Widget"
+msgstr "Contoh Widget"
+
+#: sidebar-left.php:19
+msgid "This is an example widget to show how the Left Sidebar looks by default. You can add custom widgets from the %swidgets screen%s in the admin. If custom widgets are added then this will be replaced by those widgets."
+msgstr "Ini adalah contoh widget untuk menampilkan Sidebar Kiri terlihat secara default. Anda dapat menambahkan widget kustom dari %slayar widget%s di admin. Jika kustom widget ditambahkan maka ini akan ditimpa oleh widget tersebut."
+
+#: sidebar.php:19
+msgid "This is an example widget to show how the Right Sidebar looks by default. You can add custom widgets from the %swidgets screen%s in the admin. If custom widgets are added then this will be replaced by those widgets."
+msgstr "Ini adalah contoh widget untuk menampilkan Sidebar Kanan terlihat secara default. Anda dapat menambahkan widget kustom dari %slayar widget%s di admin. Jika kustom widget ditambahkan maka ini akan ditimpa oleh widget tersebut."
+
+#: searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr "Cari"
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Cari &hellip;"
+
+#: no-results.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Tampaknya kami tak bisa menemukan apa yang Anda inginkan. Mungkin pencarian bisa membantu."
+
+#: no-results.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Maaf, tapi tak ada yang cocok dengan terma pencarian Anda. Silakan coba lgi dengan kata kunci berbeda."
+
+#: no-results.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Siap menerbitkan pos pertamamu? <a href=\"%1$s\">Mulailah di sini</a>."
+
+#: navigation.php:45
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: navigation.php:44
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: navigation.php:25 navigation.php:37
+msgid "Next &rarr;"
+msgstr "Selanjutnya &rarr;"
+
+#: navigation.php:24 navigation.php:36
+msgid "&larr; Previous"
+msgstr "&larr; Sebelumnya"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:274
+msgid "<span><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"> %3$s</a></span>"
+msgstr "<span><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"> %3$s</a></span>"
+
+#: inc/widgets/class-himalayas-our-team-widget.php:10
+msgid "Show your Team Members."
+msgstr "Tampilkan Anggota Tim Anda."
+
+#: inc/admin/class-himalayas-admin.php:496
+#: inc/widgets/class-himalayas-our-team-widget.php:13
+msgid "TG: Our Team Widget"
+msgstr "TG: Widget Tim Kami"
+
+#: inc/widgets/class-himalayas-our-team-widget.php:34
+msgid "Note: Enter the Our Team Section ID and use same for Menu item. Only used for One Page Menu."
+msgstr "Catatan: Masukkan ID Bagian Tim Kami dan gunakan yang sama untuk item menu. Hanya digunakan untuk Menu One Page."
+
+#: inc/widgets/class-himalayas-our-team-widget.php:37
+msgid "Our Team Section ID:"
+msgstr "ID Bagian Tim Kami:"
+
+#: inc/widgets/class-himalayas-our-team-widget.php:53
+msgid "Background Image:"
+msgstr "Gambar Latar Belakang:"
+
+#: inc/widgets/class-himalayas-our-team-widget.php:91
+msgid "Note: Create the pages and select Our Team Template to display Our Team pages."
+msgstr "Catatan: Buatlah laman dan pilih Template Tim Kami untuk menampilkan laman Tim Kami."
+
+#: inc/widgets/class-himalayas-contact-widget.php:10
+msgid "Show your Contact page."
+msgstr "Tampilkan laman Kontak Anda."
+
+#: inc/admin/class-himalayas-admin.php:501
+#: inc/widgets/class-himalayas-contact-widget.php:13
+msgid "TG: Contact Us Widget"
+msgstr "TG: Widget Kontak Kami"
+
+#: inc/widgets/class-himalayas-contact-widget.php:31
+msgid "Note: Enter the Contact Section ID and use same for Menu item. Only used for One Page Menu."
+msgstr "Catatan: Masukkan Id Bagian Kontak dan gunakan yang sama untuk item Menu. Hanya gunakan untuk Menu One Page."
+
+#: inc/widgets/class-himalayas-contact-widget.php:34
+msgid "Contact Section ID:"
+msgstr "ID Bagian Kontak:"
+
+#: inc/widgets/class-himalayas-contact-widget.php:50
+msgid "Select a Contact page."
+msgstr "Pilih laman Kontak."
+
+#: inc/widgets/class-himalayas-contact-widget.php:59
+msgid "Use Contact Form Plugin and enter the shortcode here:"
+msgstr "Gunakan Plugin Form kontak dan masukkan potongan kodenya disini:"
+
+#: inc/widgets/class-himalayas-contact-widget.php:61
+msgid "Shortcode"
+msgstr "Potongan kode"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:260
+msgid "by "
+msgstr "Oleh"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:266
+msgid "on "
+msgstr "pada"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:255
+msgid "Posted in "
+msgstr "Dipos di"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:11
+msgid "Display latest posts or posts of specific category"
+msgstr "Tampilkan pos terbaru atau pos dengan kategori tertentu"
+
+#: inc/admin/class-himalayas-admin.php:491
+#: inc/widgets/class-himalayas-featured-posts-widget.php:14
+msgid "TG: Featured Posts"
+msgstr "TG: Pos Andalan"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:42
+msgid "Note: Enter the Featured Post Section ID and use same for Menu item. Only used for One Page Menu."
+msgstr "Catatan: Masukkan ID Bagian Pos Andalan dan gunakan yang sama untuk item Menu. Hanya gunakan untuk Menu One Page."
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:44
+msgid "Featured Post Section ID:"
+msgstr "ID Bagian Pos Andalan:"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:104
+msgid "Show latest Posts"
+msgstr "Tampilkan Pos terbaru"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:107
+msgid "Show posts from a category"
+msgstr "Tampilkan pos dari kategori"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:111
+msgid "Select category"
+msgstr "Pilih kategori"
+
+#: inc/widgets/class-himalayas-about-us-widget.php:82
+msgid "Button Icon Class:"
+msgstr "Class Ikon Tombol:"
+
+#. translators: %s
+#: inc/widgets/class-himalayas-about-us-widget.php:93
+msgid "<a href=\"%s\" target=\"_blank\">Refer here</a> For Icon Class"
+msgstr "<a href=\"%s\" target=\"_blank\">Lihat disini</a> Untuk Class Ikon"
+
+#: inc/widgets/class-himalayas-service-widget.php:10
+msgid "Display some pages as services."
+msgstr "Tampilkan beberapa laman sebagai pelayanan."
+
+#: inc/admin/class-himalayas-admin.php:476
+#: inc/widgets/class-himalayas-service-widget.php:13
+msgid "TG: Service Widget"
+msgstr "TG: Widget Layanan"
+
+#: inc/widgets/class-himalayas-service-widget.php:29
+msgid "Note: Enter the Service Section ID and use same for Menu item. Only used for One Page Menu."
+msgstr "Catatan: Masukkan ID Bagian Layanan dan gunakan yang sama untuk item Menu. Hanya gunakan untuk Menu One Page."
+
+#: inc/widgets/class-himalayas-service-widget.php:32
+msgid "Service Section ID:"
+msgstr "ID Bagian Layanan:"
+
+#: inc/widgets/class-himalayas-our-team-widget.php:86
+#: inc/widgets/class-himalayas-portfolio-widget.php:51
+#: inc/widgets/class-himalayas-service-widget.php:50
+msgid "Number of pages to display:"
+msgstr "Jumlah laman untuk ditampilkan:"
+
+#: inc/widgets/class-himalayas-service-widget.php:57
+msgid "Note: Create the pages and select Services Template to display Services pages."
+msgstr "Catatan: Buatlah laman dan pilih Template Layanan untuk menampilkan laman Layanan."
+
+#: inc/widgets/class-himalayas-call-to-action-widget.php:10
+msgid "Use this widget to show the call to action section."
+msgstr "Gunakan widget ini untuk menampilkan bagian tombol tindakan."
+
+#: inc/admin/class-himalayas-admin.php:481
+#: inc/widgets/class-himalayas-call-to-action-widget.php:13
+msgid "TG: Call To Action Widget"
+msgstr "TG: Widget Tombol Tindakan"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:51
+#: inc/widgets/class-himalayas-call-to-action-widget.php:38
+#: inc/widgets/class-himalayas-our-team-widget.php:43
+msgid "DESIGN SETTINGS :"
+msgstr "PENGATURAN DESAIN:"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:52
+#: inc/widgets/class-himalayas-call-to-action-widget.php:39
+#: inc/widgets/class-himalayas-our-team-widget.php:45
+msgid "Background Color:"
+msgstr "Warna Latar Belakang:"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:60
+#: inc/widgets/class-himalayas-call-to-action-widget.php:46
+msgid "Image:"
+msgstr "Gambar:"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:81
+#: inc/widgets/class-himalayas-call-to-action-widget.php:67
+#: inc/widgets/class-himalayas-our-team-widget.php:74
+msgid "OTHER SETTINGS :"
+msgstr "PENGATURAN LAIN:"
+
+#: inc/widgets/class-himalayas-call-to-action-widget.php:69
+msgid "Call to Action Main Text"
+msgstr "Teks Utama Tombol Tindakan"
+
+#: inc/widgets/class-himalayas-call-to-action-widget.php:72
+msgid "Call to Action Additional Text"
+msgstr "Teks Tambahan Tombol Tindakan"
+
+#: inc/widgets/class-himalayas-call-to-action-widget.php:94
+msgid "Choose the layout"
+msgstr "Pilih Tata Letak"
+
+#: inc/widgets/class-himalayas-call-to-action-widget.php:99
+msgid "Layout One"
+msgstr "Tata Letak Satu"
+
+#: inc/widgets/class-himalayas-call-to-action-widget.php:100
+msgid "Layout Two"
+msgstr "Tata Letak Dua"
+
+#: inc/admin/class-himalayas-admin.php:486
+#: inc/widgets/class-himalayas-portfolio-widget.php:14
+msgid "TG: Portfolio"
+msgstr "TG: Portofolio"
+
+#: inc/widgets/class-himalayas-portfolio-widget.php:33
+msgid "Portfolio Section ID:"
+msgstr "ID Bagian Portofolio:"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:94
+msgid "Number of posts to display:"
+msgstr "Jumlah pos untuk ditampilkan:"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:121
+#: inc/widgets/class-himalayas-call-to-action-widget.php:77
+#: inc/widgets/class-himalayas-about-us-widget.php:68
+msgid "Button Text:"
+msgstr "Teks Tombol:"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:127
+#: inc/widgets/class-himalayas-call-to-action-widget.php:83
+#: inc/widgets/class-himalayas-about-us-widget.php:75
+msgid "Button Redirect Link:"
+msgstr "Link Pengarahan Tombol:"
+
+#: inc/widgets/class-himalayas-contact-widget.php:51
+msgid "Page"
+msgstr "Halaman"
+
+#: inc/widgets/class-himalayas-about-us-widget.php:56
+msgid "Select a page to display Title, Excerpt and Featured image."
+msgstr "Pilih laman untuk menampilkan Judul, Kutipan dan gambar andalan."
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:89
+#: inc/widgets/class-himalayas-contact-widget.php:46
+#: inc/widgets/class-himalayas-our-team-widget.php:81
+#: inc/widgets/class-himalayas-portfolio-widget.php:46
+#: inc/widgets/class-himalayas-service-widget.php:45
+#: inc/widgets/class-himalayas-about-us-widget.php:51
+msgid "Description:"
+msgstr "Deskripsi"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:84
+#: inc/widgets/class-himalayas-contact-widget.php:41
+#: inc/widgets/class-himalayas-our-team-widget.php:77
+#: inc/widgets/class-himalayas-portfolio-widget.php:40
+#: inc/widgets/class-himalayas-service-widget.php:39
+#: inc/widgets/class-himalayas-about-us-widget.php:45
+msgid "Title:"
+msgstr "Judul:"
+
+#: inc/widgets/widgets.php:81
+msgid "Footer Sidebar Three"
+msgstr "Sidebar Footer Tiga"
+
+#: inc/widgets/class-himalayas-about-us-widget.php:10
+msgid "Show your about page."
+msgstr "Tampilkan laman tentang Anda."
+
+#: inc/admin/class-himalayas-admin.php:471
+#: inc/widgets/class-himalayas-about-us-widget.php:13
+msgid "TG: About Widget"
+msgstr "TG: Widget Tentang"
+
+#: inc/widgets/class-himalayas-about-us-widget.php:35
+msgid "Note: Enter the About Section ID and use same for Menu item. Only used for One Page Menu."
+msgstr "Catatan: Masukkan ID Bagian Tentang dan gunakan yang sama untuk item Menu. Hanya gunakan untuk Menu One Page."
+
+#: inc/widgets/class-himalayas-about-us-widget.php:38
+msgid "About Section ID:"
+msgstr "ID Bagian Tentang:"
+
+#: inc/widgets/widgets.php:33
+msgid "Shows widgets at Left side."
+msgstr "Menampilkan widget di sisi Kiri."
+
+#: inc/widgets/widgets.php:41
+msgid "Front Page Sidebar"
+msgstr "Sidebar Laman Depan"
+
+#: inc/widgets/widgets.php:43
+msgid "Show widgets at Front Page Content Section"
+msgstr "Tampilkan widget di Laman Depan Bagian Konten"
+
+#: inc/widgets/widgets.php:51
+msgid "Error 404 Page Sidebar"
+msgstr "Sidebar Laman Error 404"
+
+#: inc/widgets/widgets.php:53
+msgid "Shows widgets on Error 404 page."
+msgstr "Menampilkan widget pada laman Error 404."
+
+#: inc/widgets/widgets.php:61
+msgid "Footer Sidebar One"
+msgstr "Sidebar Footer Satu"
+
+#: inc/widgets/widgets.php:71
+msgid "Footer Sidebar Two"
+msgstr "Sidebar Footer Dua"
+
+#: inc/widgets/widgets.php:23
+msgid "Shows widgets at Right side."
+msgstr "Menampilkan widget di sisi Kanan."
+
+#: inc/functions.php:608
+msgid "Archives"
+msgstr "Arsip"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/functions.php:606
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/functions.php:602
+msgid "Archives: %s"
+msgstr "Arsip: %s"
+
+#: inc/functions.php:599
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Obrolan"
+
+#: inc/functions.php:597
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/functions.php:595
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Status"
+
+#: inc/functions.php:593
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Tautan"
+
+#: inc/functions.php:591
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Kutipan"
+
+#: inc/functions.php:589
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Video"
+
+#: inc/functions.php:587
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Gambar"
+
+#: inc/functions.php:585
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galeri"
+
+#: inc/functions.php:583
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Aside"
+
+#: inc/functions.php:580
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/functions.php:580
+msgid "Day: %s"
+msgstr "Hari: %s"
+
+#: inc/functions.php:578
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/functions.php:578
+msgid "Month: %s"
+msgstr "Bulan: %s"
+
+#: inc/functions.php:576
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/functions.php:576
+msgid "Year: %s"
+msgstr "Tahun: %s"
+
+#: inc/functions.php:574
+msgid "Author: %s"
+msgstr "Penulis: %s"
+
+#: inc/functions.php:572
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: inc/functions.php:570
+msgid "Category: %s"
+msgstr "Kategori: %s"
+
+#: inc/functions.php:477
+msgid "Copyright &copy; %1$s %2$s."
+msgstr "Hak Cipta &copy; %1$s %2$s."
+
+#: inc/functions.php:449
+msgid "Reply"
+msgstr "Balas"
+
+#: inc/functions.php:443
+msgid "Your comment is awaiting moderation."
+msgstr "Komentar Anda sedang dimoderasi."
+
+#: inc/functions.php:435
+msgid "%1$s at %2$s"
+msgstr "%1$s pada %2$s"
+
+#: inc/functions.php:432
+msgid "Post author"
+msgstr "Penulis pos"
+
+#: inc/functions.php:417
+msgid "(Edit)"
+msgstr "(Sunting)"
+
+#: inc/functions.php:417
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/functions.php:260
+msgid " % Comments"
+msgstr " % Komentar"
+
+#: inc/functions.php:272
+msgid "Edit"
+msgstr "Sunting"
+
+#: inc/functions.php:260
+msgid "1 Comment"
+msgstr "1 Komentar"
+
+#: inc/customizer.php:389
+msgid "Write your Custom CSS"
+msgstr "Tulis CSS Kustom Anda"
+
+#: inc/customizer.php:402
+msgid "Contain additional options"
+msgstr "Berisi opsi tambahan"
+
+#: inc/customizer.php:404
+msgid "Himalayas Additional Options"
+msgstr "Opsi Tambahan Himalayas"
+
+#: inc/customizer.php:410
+msgid "Hide Blog posts from the front page"
+msgstr "Sembunyikan pos Blog dari laman depan"
+
+#: inc/customizer.php:421
+msgid "Check to hide blog posts/static page on front page"
+msgstr "Centang untuk menyembunyikan post blog/laman statis di laman depan"
+
+#: inc/customizer.php:485
+msgid "Excerpts or Full Posts option"
+msgstr "Opso Kutipan atau Pos Penuh"
+
+#: inc/customizer.php:496
+msgid "Toggle between displaying excerpts and full posts on your blog and archives."
+msgstr "Alihkan antara menampilkan kutipan dan pos penuh pada blog Anda dan arsip."
+
+#: inc/customizer.php:500
+msgid "Show full post content"
+msgstr "Tampilkan konten pos penuh"
+
+#: inc/customizer.php:501
+msgid "Show excerpt"
+msgstr "Tampilkan kutipan"
+
+#: inc/related-posts.php:51 inc/functions.php:250
+msgid "<span class=\"posted-on\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"> %3$s</a></span>"
+msgstr "<span class=\"posted-on\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"> %3$s</a></span>"
+
+#: inc/functions.php:260
+msgid "0 Comment"
+msgstr "0 Komentar"
+
+#: inc/customizer.php:339
+msgid "Footer Layout Options"
+msgstr "Opsi Tata Letak Footer"
+
+#: inc/customizer.php:350
+msgid "Select the Footer Layout"
+msgstr "Pilih Tata Letak Footer"
+
+#: inc/customizer.php:354
+msgid "Choose Footer Layout One"
+msgstr "Pilih Tata Letak Footer Satu"
+
+#: inc/customizer.php:355
+msgid "Choose Footer Layout Two"
+msgstr "Pilih Tata Letak Footer Dua"
+
+#: inc/customizer.php:377
+msgid "Custom CSS"
+msgstr "CSS Kustom"
+
+#: inc/customizer.php:249
+msgid "Select default layout. This layout will be reflected in whole site archives, categories, search page etc. The layout for a single post and page can be controlled from below options"
+msgstr "Pilih tata letak default. Tata letak ini akan berdampak di keseluruhan arisp, kategori, laman pencarian situs, dll. Tata letak untuk pos dan laman tunggal bisa diatur dari opsi dibawah"
+
+#: inc/customizer.php:264
+msgid "Default layout for pages only"
+msgstr "Tata letak default untuk laman saja"
+
+#: inc/customizer.php:276
+msgid "Select default layout for pages. This layout will be reflected in all pages unless unique layout is set for specific page"
+msgstr "Pilih tata letak default untuk laman. Tata letak ini akan berdampak di semua laman kecuali tata letak unik diterapkan pada laman tertentu."
+
+#: inc/customizer.php:291
+msgid "Default layout for single posts only"
+msgstr "Tata letak default untuk pos tunggal saja"
+
+#: inc/customizer.php:303
+msgid "Select default layout for single posts. This layout will be reflected in all single posts unless unique layout is set for specific post"
+msgstr "Pilih tata letak default untuk pos. Tata letak ini akan berdampak di semua pos kecuali tata letak unik diterapkan pada pos tertentu."
+
+#: inc/customizer.php:319
+msgid "Primary color option"
+msgstr "Opsi warna utama"
+
+#: inc/customizer.php:331
+msgid "This will reflect in links, buttons and many others. Choose a color to match your site"
+msgstr "Akan berdampak di link, tombol dan banyak lagi. Pilih warna yang cocok untuk situs Anda"
+
+#: inc/customizer.php:237
+msgid "Default layout"
+msgstr "Tata Letak Bawaan"
+
+#: inc/customizer.php:164
+msgid "Contain all the Design related options"
+msgstr "Berisi semua opsi berkaitan dengan Desain"
+
+#: inc/customizer.php:165
+msgid "Himalayas Design Options"
+msgstr "Opsi Desain Himalayas"
+
+#: inc/customizer.php:115
+msgid "1. To display the Slider first check Enable the slider below. Now create the page for each slider and enter title, text and featured image. Choose that pages in the dropdown options."
+msgstr "1. Untuk menampilkan Slider silahkan centang Adakan slider dibawah. Sekarang buatlah laman untuk setiap slider dan masukkan judul, teks dan gambar andalan. Pilih laman tersebut di opsi tarik turun."
+
+#: inc/customizer.php:115
+msgid "2. The recommended size for the slider image is 1600 x 780 pixels. For better functioning of slider use equal size images for each slide."
+msgstr "2. Ukuran yang disarankan untuk gambar slider adalah 1600 x 780 piksel. Untuk fungsi slider yang lebih baik gunakan gambar dengan ukuran yang sama setiap slide."
+
+#: inc/customizer.php:115
+msgid "3. If page do not have featured Image than that page will not included in slider show."
+msgstr "3. Jika laman tidak memiliki gambar andalan maka laman tersebut tidak akan termasuk di tampilan slider."
+
+#: inc/customizer.php:128
+msgid "Enable the slider"
+msgstr "Adakan slider"
+
+#: inc/admin/class-himalayas-admin.php:406 inc/customizer.php:150
+msgid "Slider"
+msgstr "Slider"
+
+#: inc/customizer.php:115
+msgid "Note"
+msgstr "Catatan"
+
+#: inc/customizer.php:107
+msgid "Contain all the slider related options"
+msgstr "Berisi semua opsi berkaitan dengan slider"
+
+#: inc/customizer.php:108
+msgid "Himalayas Slider Options"
+msgstr "Opso slider Himalayas"
+
+#: inc/admin/class-himalayas-admin.php:411 inc/customizer.php:113
+msgid "Slider Settings"
+msgstr "Pengaturan Slider"
+
+#: inc/customizer.php:93
+msgid "Header Text Only"
+msgstr "Hanya Teks Header"
+
+#: inc/customizer.php:94
+msgid "Show Both"
+msgstr "Tampilkan Keduanya"
+
+#: inc/customizer.php:95
+msgid "Disable"
+msgstr "Tiadakan"
+
+#: inc/admin/meta-boxes.php:47
+msgid "No Sidebar Full Width"
+msgstr "Lebar Penuh Tanpa Sidebar"
+
+#: inc/admin/meta-boxes.php:52
+msgid "No Sidebar Content Centered"
+msgstr "Konten Ditengah Tanpa Sidebar"
+
+#: inc/admin/meta-boxes.php:59
+msgid "fontawesome Icons"
+msgstr "Ikon fontawesome"
+
+#: inc/admin/meta-boxes.php:66
+msgid "team designation"
+msgstr "penunjukkan tim"
+
+#: inc/admin/meta-boxes.php:113
+msgid "If featured image is not used than display the icon in Services. </br>"
+msgstr "Jika gambar andalan tidak digunakan maka tampilkan ikon di Layanan. </br>"
+
+#: inc/admin/meta-boxes.php:117
+msgid "<a href=\"%s\" target=\"_blank\">Refer here</a> for icon class. For example: <strong>fa-mobile</strong>"
+msgstr "<a href=\"%s\" target=\"_blank\">Lihat disini</a> untuk class icon. Contoh: <strong>fa-mobile</strong>"
+
+#: inc/admin/meta-boxes.php:124
+msgid "Show designation in Our Team Widget. </br>"
+msgstr "Tampilkan penunjukkan di Widget Tim Kami. </br>"
+
+#: inc/customizer.php:32
+msgid "Contain all the Header related options"
+msgstr "Berisi semua opsi yang berkaitan dengan Header"
+
+#: inc/customizer.php:34
+msgid "Himalayas Header Options"
+msgstr "Opsi Header Himalayas"
+
+#: inc/customizer.php:40
+msgid "Header Sticky/non-sticky"
+msgstr "Header Lengket/tidak lengket"
+
+#: inc/customizer.php:41
+msgid "Header is sticky by default."
+msgstr "Header lengket secara default nya."
+
+#: inc/customizer.php:52
+msgid "Check to make header non-sticky"
+msgstr "Centang untuk membuat header tidak lengket"
+
+#: inc/customizer.php:59
+msgid "Header Transparency"
+msgstr "Transparansi Header"
+
+#: inc/customizer.php:60
+msgid "By default Header is transparent when slider is used."
+msgstr "Secara default Header nya transparan ketika slider digunakan."
+
+#: inc/customizer.php:71
+msgid "Make header non transparent."
+msgstr "Buat header tidak transparan."
+
+#: inc/customizer.php:77
+msgid "Header Title/Tagline and Logo"
+msgstr "Judul/Slogan Header dan Logo"
+
+#: inc/customizer.php:89
+msgid "Choose the required option"
+msgstr "Pilih opsi yang diperlukan"
+
+#: inc/customizer.php:92
+msgid "Header Logo Only"
+msgstr "Hanya Logo Header"
+
+#: inc/admin/meta-boxes.php:42 inc/widgets/widgets.php:31
+msgid "Left Sidebar"
+msgstr "Sidebar kiri"
+
+#: inc/admin/meta-boxes.php:37 inc/widgets/widgets.php:21
+msgid "Right Sidebar"
+msgstr "Sidebar kanan"
+
+#: inc/admin/meta-boxes.php:32
+msgid "Default Layout"
+msgstr "Tata Letak Bawaan"
+
+#: inc/admin/meta-boxes.php:16 inc/admin/meta-boxes.php:18
+msgid "Select Layout"
+msgstr "Pilih Tata Letak"
+
+#: inc/admin/meta-boxes.php:20
+msgid "Icon class"
+msgstr "Ikon class"
+
+#: inc/admin/meta-boxes.php:22
+msgid "Our Team Designation"
+msgstr "Penunjukkan Tim Kami"
+
+#: functions.php:45
+msgid "Footer Menu"
+msgstr "Menu Footer"
+
+#: functions.php:44
+msgid "Primary Menu"
+msgstr "Menu Utama"
+
+#: content.php:53 content.php:58 inc/header-functions.php:62
+#: inc/widgets/class-himalayas-featured-posts-widget.php:287
+#: inc/widgets/class-himalayas-service-widget.php:187
+#: inc/widgets/class-himalayas-about-us-widget.php:179
+msgid "Read more"
+msgstr "Baca selengkapnya"
+
+#: content-page.php:24 content-single.php:49
+msgid "Pages:"
+msgstr "Laman:"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#: comments.php:40 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "Komentar Terbaru &rarr;"
+
+#: comments.php:39 comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&larr; Komentar Terdahulu"
+
+#: comments.php:38 comments.php:55
+msgid "Comment navigation"
+msgstr "Navigasi komentar"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Satu tanggapan untuk &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s tanggapan untuk &ldquo;%2$s&rdquo;"
+
+#: 404.php:34
+msgid "404"
+msgstr "404"
+
+#: 404.php:36
+msgid "error"
+msgstr "error"
+
+#: 404.php:30
+msgid "It looks like nothing was found at this location. Try the search below."
+msgstr "Sepertinya tidak ada apa-apa disini. Cobalah pencarian dibawah."
+
+#: 404.php:27
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Laman tersebut tak ditemukan."
+
+#. Author URI of the theme
+msgid "https://themegrill.com"
+msgstr "http://themegrill.com"
+
+#. Theme URI of the theme
+msgid "https://themegrill.com/themes/himalayas/"
+msgstr "http://themegrill.com/themes/himalayas/"
+
+#. Author of the theme
+#: inc/functions.php:475
+msgid "ThemeGrill"
+msgstr "ThemeGrill"
