@@ -72,7 +72,7 @@ $content = apply_filters('the_content', substr(strip_tags($post->post_content), 
                             <h2><?php echo 'Selamat Datang';?></h2>
                             <p><?php echo '“TERWUJUDNYA WONOSOBO BERSATU UNTUK MAJU, MANDIRI DAN SEJAHTERA UNTUK SEMUA”'; ?> </p>
                             <div class="clear"></div>
-                            <a class="ReadMore" href="http://localhost/wonosobo/informasi/visi-misi/"><?php echo 'Read More'; ?></a>
+                            <a class="ReadMore" href="http://124.158.165.11/wonosobo/informasi/visi-misi/"><?php echo 'Read More'; ?></a>
                       </div>
                     </div>
                     <div id="slidecaption2" class="nivo-html-caption">
@@ -80,7 +80,7 @@ $content = apply_filters('the_content', substr(strip_tags($post->post_content), 
                             <h2><?php echo 'Telaga Warna Wonosobo'; ?></h2>
                             <p><?php echo 'Telaga Warna merupakan salah satu tempat wisata andalan yang terletak di Dieng Wonosobo, jawa tengah. Telaga ini kadang berwarna hijau, kuning dan pelangi.';?></p>
                             <div class="clear"></div>
-                            <a class="ReadMore" href="#http://localhost/wonosobo/2019/02/15/telaga-warna/"><?php echo 'Read More'; ?></a>
+                            <a class="ReadMore" href="http://124.158.165.11/wonosobo/2019/02/15/telaga-warna/"><?php echo 'Read More'; ?></a>
                       </div>
                     </div>
                     <div id="slidecaption3" class="nivo-html-caption">
@@ -88,7 +88,7 @@ $content = apply_filters('the_content', substr(strip_tags($post->post_content), 
                             <h2><?php echo 'Candi Arjuna Dieng Wonosobo';?></h2>
                             <p><?php echo 'Candi Arjuna merupakan salah satu candi di kompleks Sejarah Candi Dieng yang terletak di dataran tinggi dieng, perbatasan antara Kabupaten Wonosobo dan Banjarnegara.'; ?> </p>
                             <div class="clear"></div>
-                            <a class="ReadMore" href="http://localhost/wonosobo/2019/02/20/candi-arjuna-dieng/"><?php echo 'Read More'; ?></a>
+                            <a class="ReadMore" href="http://124.158.165.11/wonosobo/2019/02/20/candi-arjuna-dieng/"><?php echo 'Read More'; ?></a>
                     </div>
                    </div>
 </div>
@@ -214,14 +214,14 @@ $content = apply_filters('the_content', substr(strip_tags($post->post_content), 
                      <h1><?php the_title(); ?></h1>         
                      <?php the_content(); ?>
                      <?php if(get_theme_mod('moreinfo_link', '#')) { ?>
-                      <a class="MoreLink" href="http://localhost/wonosobo/tentang/"><?php _e('More Info','restaurant'); ?></a>
+                      <a class="MoreLink" href="http://124.158.165.11/wonosobo/tentang/"><?php _e('More Info','restaurant'); ?></a>
                       <?php } ?>
                      <div class="clear"></div>
                     <?php endwhile; } else { ?> 
                     <img src="<?php echo get_template_directory_uri(); ?>/images/welcome-restaurant.png" alt=""/>     
                     <h2><?php _e('Welcome to Our Restaurant','restaurant'); ?></h2>
                     <p><?php _e('Donec porta quis justo id pulvinar. Integer sed varius velit. Sed turpis nunc, imperdiet at mi nec, maximus maximus odio. Integer vel molestie ante. Curabitur blandit, purus id scelerisque posuere, enim diam mattis odio, vitae cursus nulla ex malesuada nisi. Pellentesque facilisis ullamcorper lacus, a lobortis urna porttitor eu. Suspendisse rutrum velit tellus, id volutpat risus condimentum non. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut sit amet aliquet metus, porttitor iaculis nunc. Quisque cursus ipsum ac lacinia faucibus. Quisque id dui vulputate, varius lectus vitae, congue purus Quisque id dui vulputate, varius lectus vitae, congue purus','restaurant'); ?></p>
-                    <a class="MoreLink" href="http://localhost/wonosobo/tentang/"><?php _e('More Info','restaurant'); ?></a> 
+                    <a class="MoreLink" href="http://124.158.165.11/wonosobo/tentang/"><?php _e('More Info','restaurant'); ?></a> 
                     <?php } ?>
                       
                </div><!-- services-wrap-->
@@ -320,7 +320,7 @@ $content = apply_filters('the_content', substr(strip_tags($post->post_content), 
               <div class="clear"></div>
             </div><!-- container -->
        </section><div class="clear"></div>
-      <center><a class="MoreLink" href="http://localhost/wonosobo/galeri/"><?php _e('Lihat lainnya','restaurant'); ?></a></center>
+      <center><a class="MoreLink" href="http://124.158.165.11/wonosobo/galeri/"><?php _e('Lihat lainnya','restaurant'); ?></a></center>
        
       <section id="wrapfirst">
             	<div class="container">

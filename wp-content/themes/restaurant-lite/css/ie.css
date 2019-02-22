@@ -20,7 +20,7 @@ nav ul li:hover ul li:hover ul, nav ul li:hover ul li:hover ul li:hover ul{displ
 
 hr{*border:none !important;}
 .search-form {*height:32px !important; *overflow:hidden !important;}
-.search-form .search-submit{*top:-34px; *position:relative;}
+.search-form .search-submit{*top:-34px; *position:relative; background-color:#ffa200; color:#fff  "Playball",sans-serif;}
 .search-form .search-field{*width:120px !important; }
 .search-form label{*display:inline-block !important;}
 .header_right nav{*float:right !important;}

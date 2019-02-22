@@ -69,7 +69,7 @@ border-top-right-radius: 5px; cursor:pointer;   }
 .toggle a{width:100%; color:#ffffff; background:url(images/mobile_nav_right.png) no-repeat right center #3e3e3e; padding:10px 10px; margin-top:5px; font-size:16px;}
 .toggle a:hover{color:#ffffff !important;}
 .sitenav{display:none;}
-.header{width:100%; position:absolute; z-index:999999; top:0;}
+.header{width:100%; position:fixed; z-index:999999; top:0;}
 .sitenav{ padding:0; text-align:right; float:right;}
 .sitenav ul { float:right; margin:0; padding:0; font-family:'Roboto Condensed', sans-serif; font-weight:400; font-size:15px;}
 .sitenav ul li{ display:inline-block; margin:0; position:relative; text-align:center;}
@@ -141,6 +141,7 @@ h2.section-title {color:#454545; font:300 36px/40px 'Playball',san-serif; text-a
 .MoreLink{font:300 20px/22px "Playball",sans-serif; background-color:#ffa200; color:#fff ;display: inline-block; padding:10px 20px; border-radius:3px; -moz-border-radius:3px; -moz-border-radius:3px;}
 .MoreLink:hover{ background-color:#2f241e; color:#fff; }
 .post-thumb img{ float:left; margin:5px 25px 5px 0;}
+
 /* = sidebar
 -------------------------------------------------------------- */
 #sidebar{ width:330px; float:right;}
